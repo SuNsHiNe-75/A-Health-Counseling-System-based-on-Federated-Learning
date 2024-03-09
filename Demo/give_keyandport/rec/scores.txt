@@ -1,0 +1,5 @@
+sleep,-0.582716
+stayhome,-0.236736
+tea,-0.226220
+exercise,-0.206663
+oliveoil,-0.196772
